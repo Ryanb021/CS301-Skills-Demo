@@ -30,3 +30,5 @@ public class Circles {
         }
     }
 }
+
+// Reference idea: https://github.com/arjunkejriwal2310/Shapes-and-their-Properties/blob/main/Circle.java

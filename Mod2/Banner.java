@@ -35,3 +35,5 @@ public class Banner {
         }
     }
 }
+
+// Reference idea: https://introcs.cs.princeton.edu/java/15inout/Banner.java.html
