@@ -12,11 +12,12 @@ The `Mod1` folder contains the following Java programs:
 
 ## Module 2
 
-The `` folder contains the following Java programs:
+The `Mod 2` folder contains the following Java programs:
 
 - **Circles.java** – Draws filled circles of random size at random positions.
 - **Stats.java** – Takes an integer command-line argument n, reads floating-point numbers and prints mean and sample standard deviation.
 - **Banner.java** – Takes a string s from the command line and display it in banner style moving left to right wrapping back to the beginning.
+
 ## How to Compile
 
 Open a terminal in the `Mod1` folder and compile a program using:
