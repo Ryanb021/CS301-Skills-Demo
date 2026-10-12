@@ -30,7 +30,7 @@ public class Partition {
             if (i <= n) {
 
                 // Call the method again with the remaining number
-                partition(n - 1, i, result + i + " ");
+                partition(n - i, i, result + i + " ");
             }
         }
     }
