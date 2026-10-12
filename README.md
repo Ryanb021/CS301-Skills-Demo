@@ -18,6 +18,16 @@ The `Mod 2` folder contains the following Java programs:
 - **Stats.java** – Takes an integer command-line argument n, reads floating-point numbers and prints mean and sample standard deviation.
 - **Banner.java** – Takes a string s from the command line and display it in banner style moving left to right wrapping back to the beginning.
 
+## Module 3
+
+The `Mod 3` folder contains the following Java programs:
+
+- **AreTriangular.java** –  Takes three double arguments and returns true if they could be the sides of a triangle.
+- **Partition.java** – Takes a positive integer N as a command-line argument and prints out all partitions of N.
+- **SAT.java** – Estimate the lowest score that will still be admitted..
+- **ReverseString.java** - Takes a string and reverses it using recursion.
+- **RecursiveBinarySearch.java** - Uses recursive binary search to determine whether a target value occurs in a sorted integer array.
+
 ## How to Compile
 
 Open a terminal in the `Mod1` folder and compile a program using:
