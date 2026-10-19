@@ -28,6 +28,15 @@ The `Mod 3` folder contains the following Java programs:
 - **ReverseString.java** - Takes a string and reverses it using recursion.
 - **RecursiveBinarySearch.java** - Uses recursive binary search to determine whether a target value occurs in a sorted integer array.
 
+## Module 4
+
+The `Mod 4` folder contains the following Java programs:
+
+- **Once.java** –  Reads in a string and prints the first character that appears exactly once in the string.
+- **ROT13.java** – Simple encryption scheme used on some Internet newsgroups to conceal potentially offensive postings. It works by cyclically shifting each lowercase or uppercase letter 13 positions.
+- **CustomDate.java** – Represents a date. You should be able to create a new Date by specifying the month, day, and year. It should supports methods to compute the number of days between two dates, return the day of the week that a day falls on, etc.
+- **SodaMachine.java** - Has methods insertCoin(), getChange(), buy(), etc.
+
 ## How to Compile
 
 Open a terminal in the `Mod1` folder and compile a program using:
