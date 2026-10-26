@@ -32,10 +32,22 @@ The `Mod 3` folder contains the following Java programs:
 
 The `Mod 4` folder contains the following Java programs:
 
-- **Once.java** –  Reads in a string and prints the first character that appears exactly once in the string.
+- **Once.java** – Reads in a string and prints the first character that appears exactly once in the string.
 - **ROT13.java** – Simple encryption scheme used on some Internet newsgroups to conceal potentially offensive postings. It works by cyclically shifting each lowercase or uppercase letter 13 positions.
 - **CustomDate.java** – Represents a date. You should be able to create a new Date by specifying the month, day, and year. It should supports methods to compute the number of days between two dates, return the day of the week that a day falls on, etc.
 - **SodaMachine.java** - Has methods insertCoin(), getChange(), buy(), etc.
+
+## Module 5
+
+The `Mod 5` folder contains the following Java programs:
+
+- **BinarySearch.java** – An algorithm (hint: binary search!) to find an index i such that a[i] = i if such an index exists in an array a[] of N distinct integers (positive or negative) in ascending order.
+- **Parentheses.java** – Reads a string of parentheses, square brackets, and curly braces from standard input and uses a stack to determine whether they are properly balanced..
+- **FindKthLargest.java** – An algorithm to find the kth largest one. It should run in O(N) time on random inputs in an array of N elements, not necessarily in ascending order.
+- **HashST.java** - Contains the following methods:
+    - contains(): Returns true if this symbol table contains the specified key.
+    - size(): Returns the number of key-value pairs in this symbol table.
+    - keys(): Returns all keys in the symbol table.
 
 ## How to Compile
 
