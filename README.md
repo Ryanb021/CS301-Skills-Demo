@@ -49,6 +49,18 @@ The `Mod 5` folder contains the following Java programs:
     - size(): Returns the number of key-value pairs in this symbol table.
     - keys(): Returns all keys in the symbol table.
 
+## Module 6
+
+The `Mod 6` folder contains the following Java program and two PNG images:
+
+- **MatchPhoneNumber.java** – Java regular expression to match phone numbers, with or without area codes. The area codes should be of the form (609) 555-1234 or 555-1234.
+
+- **DFA.png** - A DFA for bitstrings with at least one 0 and at least one 1.
+![DFA](/Mod6/images/DFA.png)
+
+- **NFA.png** - An NFA that recognizes the language of all strings whose 4th to the last character is 'a'.
+![NFA](/Mod6/images/NFA.png)
+
 ## How to Compile
 
 Open a terminal in the `Mod1` folder and compile a program using:
