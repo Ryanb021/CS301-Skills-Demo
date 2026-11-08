@@ -67,7 +67,7 @@ The `Mod 7` folder contains the following file:
 
 - **SkillsDemonstration.md** - A markdown file called SkillsDemonstration.md with the answers to the following questions:
     - What are 3 examples of problems that are in NP?
-    - hat is the difference between universality, computability, and intractability?
+    - What is the difference between universality, computability, and intractability?
 
 ## How to Compile
 
