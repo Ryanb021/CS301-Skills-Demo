@@ -61,6 +61,14 @@ The `Mod 6` folder contains the following Java program and two PNG images:
 - **NFA.png** - An NFA that recognizes the language of all strings whose 4th to the last character is 'a'.
 ![NFA](/Mod6/images/NFA.png)
 
+## Module 7
+
+The `Mod 7` folder contains the following file:
+
+- **SkillsDemonstration.md** - A markdown file called SkillsDemonstration.md with the answers to the following questions:
+    - What are 3 examples of problems that are in NP?
+    - hat is the difference between universality, computability, and intractability?
+
 ## How to Compile
 
 Open a terminal in the `Mod1` folder and compile a program using:
